@@ -1,0 +1,12 @@
+.desc {
+    color: rgb(9, 141, 97);
+}
+.temp {
+    color: orange;
+}
+.wind {
+    color: lightblue;
+}
+.humi {
+    color: red;
+}
